@@ -27,7 +27,7 @@
 
 ## 🚀 Tech Stack That Powers the Magic
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=000&color=000&label=JavaScript&message=&labelColor=000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=764ABC)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=FFFFFF)
