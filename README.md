@@ -36,7 +36,19 @@
 
 ## 🚀 Tech Stack That Makes the Magic Happen
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAields.io/badge/Redux-black?style=flat-square&logo=redux.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=expressDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb](https://img.shields.io/badge/REST-black?style=flat-square&logo=rest&logoColorimg.shields.io/badge/GraphQL-black?style=flat-square&](https://img.shields.io/badge/Stripe-black?style=flat-square&logo=stripe&logoColor://img.shields.io/badge/Razorpay-black?style=flat-square&logo=razorpay&logoColor=02042B](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css&logoColor=38B2AC’s Create Something Awesome
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=764ABC)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=47A248)
+![REST](https://img.shields.io/badge/REST-black?style=flat-square&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
+![Stripe](https://img.shields.io/badge/Stripe-black?style=flat-square&logo=stripe&logoColor=008CDD)
+![Razorpay](https://img.shields.io/badge/Razorpay-black?style=flat-square&logo=razorpay&logoColor=02042B)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+
 
 Love cool ideas, quirky features, or just want to swap coding horror stories? Let’s connect! I’m all about building standout projects, collaborating with fun, smart humans, and keeping the vibes positive—recruiters, devs, or tech enthusiasts, you’re all welcome (bonus points for memes or coffee recommendations).
 
