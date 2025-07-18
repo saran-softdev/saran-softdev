@@ -15,7 +15,7 @@
 - **💊 Medical E-Commerce:** Created secure product management and an admin panel that’s healthier than a vitamin.
 - **🎓 LMS Platform:** Developed a learning platform with real-time Razorpay payments—because knowledge (and coffee) should never stop.
 
-## 😄 Why Commits Are Low (Professional Edition)
+## 😄 Why Commits Are Low
 
 > "If you don’t see a commit every day, don’t worry—I’m just busy making client projects amazing from 9 to 6 (and sometimes, from 9 to 9!)."  
 >  
@@ -44,4 +44,4 @@
 
 ## 🤝 Let’s Connect
 
-Got an exciting project or want to swap bug stories? Ping me! Collaboration, freelance, or just some dev chat—I’m always up for building cool stuff and having a laugh along the way.
+Got an exciting project or want to swap bug stories? Ping me! Collaboration, freelance, or just some dev chat I’m always up for building cool stuff and having a laugh along the way.
