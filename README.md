@@ -27,7 +27,19 @@
 
 ## 🚀 Tech Stack That Powers the Magic
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&://img.shields.io/badge/-React-61DAFB?style=flat-square&://img.shields.io/badge/-Redux-764ABC?style=flat-square&://img.shields.io/badge/-Next.js-000000?style=flat-square&://img.shields.io/badge/-Node.js-339933?style=flat-square&://img.shields.io/badge/-Express.js-000?style=flat-square&://img.shields.io/badge/-MongoDB-47A248?style=flat-square&](https://img.shields.io/badge/-REST-02569B?style=flatQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphqlields.io/badge/-Stripe-008CDD?style=flat-square&logo=strimg.shields.io/badge/-Razorpay-02042B?style=flat-square& CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo GitHub Stats
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![REST API](https://img.shields.io/badge/-REST-02569B?style=flat-square&logo=rest)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss)
+ GitHub Stats
 
 
   
