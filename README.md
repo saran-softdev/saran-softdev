@@ -1,16 +1,12 @@
 # 👋 Hi, I'm Saran Kumar
 
-[🌐 Email](mailto:saran.softdev@gmail.com) -  
-[📞 +91 6379583629](tel:+916379583629) -  
-[🔗 LinkedIn](https://linkedin.com/in/saran-softdev/) -  
-[💻 GitHub](https://github.com/saran-softdev)
+### 📬 Contact Me
 
-## 🏢 Work Experience
+- 📧 **Email:** [saran.softdev@gmail.com](mailto:saran.softdev@gmail.com)  
+- 📞 **Phone:** [+91 6379583629](tel:+916379583629)  
+- 🔗 **LinkedIn:** [linkedin.com/in/saran-softdev](https://linkedin.com/in/saran-softdev/)  
+- 💻 **GitHub:** [github.com/saran-softdev](https://github.com/saran-softdev)
 
-| Company                | Role                 | Location        | Duration               |
-|------------------------|----------------------|-----------------|------------------------|
-| Sanyaa Infotech        | Full Stack Developer | Bengaluru       | Sep 2024 – Present     |
-| Ability Fusion Pvt Ltd | Full Stack Developer | Panruti         | Jun 2024 – Aug 2024    |
 
 ## ⭐ Project Highlights
 
